@@ -1,2 +1,2 @@
 # Bahasa
-This is my first project with java servlet - An online book store 
+My first project with java servlet - An online book store 
